@@ -191,7 +191,7 @@ Following are the results of the project:
 
 ### Setup 
 - Download the dataset from [here](https://drive.google.com/file/d/19MIw3ZI-Z91NLTDMc8GI4OlIOwN_Vv-t/view?usp=sharing).
-- Preprocessed files for training model can be generated using [preprocessing.ipynb]() from the dataset given.    
+- Preprocessed files for training model can be generated using [preprocessing.ipynb](preprocessing.ipynb) from the dataset given or downloaded from [here](https://drive.google.com/file/d/1WpQVe9xJZrO5uSAB_LzLHIflyoV0r1zL/view?usp=sharing).    
     - Following preprocessing has to be done before training :- 
       - **Preprpocessing captions** :- Removing punctuations, converting text to lower case and generating tokes. 
       - **word_map creation** :- Every word in the dictionary (training data) is mapped to a number (only words having count more than minimum frequency). Four special tokens are used to define start, beginning, unknown, padded - <start>, <eos>, <unk>,<pad>. These special tokens are mapped to value 0,1,2,3 respectively.
@@ -208,6 +208,7 @@ Following are the results of the project:
         0,10,76,56,12,67,361,10,65,56,22,4,433,1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
   
          ```
+- Final trained model is present [here](final_model.pth).
 
 ## Usage 
 - Generate all preprocessed files required for training.
