@@ -54,7 +54,7 @@ Project Report can be found in [DL_Image_Captioning_Report.pdf](DL_Image_Caption
 ## Datasets 
 - Visualization of example images from provided [dataset](https://drive.google.com/file/d/19MIw3ZI-Z91NLTDMc8GI4OlIOwN_Vv-t/view?usp=sharing).
 
-                                   Fig 2. Dataset Images and Captions 
+                                   Fig 3. Dataset Images and Captions 
 
 <div align="center">
  <table>
@@ -115,7 +115,7 @@ Project Report can be found in [DL_Image_Captioning_Report.pdf](DL_Image_Caption
     - After k sequences terminate, choose the sequence with the best overall score.
     - [read more](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning).
 
-                        Fig . Complete Encoder-Decoder Architecture 
+                        Fig 4. Complete Encoder-Decoder Architecture 
 
 <div align="center"><img src="Images/encoder_decoder.png" /></div>
 
@@ -127,7 +127,7 @@ Following are the results of the project:
 
 
 
-                             Fig 10. Results
+                             Fig 5. Results
    
   <div align="center">
   <table>
