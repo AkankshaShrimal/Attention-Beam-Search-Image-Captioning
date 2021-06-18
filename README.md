@@ -26,7 +26,7 @@ We proposed an approach to solve the problem of **Image Captioning**. Image Capt
 
                   Fig 1. Image Captioning Task 
 
-<div align="center"><img src="Images/outputs/outputs_without_attention/d_img2.png" height='200px'/></div>
+<div align="center"><img src="Images/outputs/outputs_without_attention/d_img5.png" height='400px'/></div>
 
 <p>&nbsp;</p>
 
