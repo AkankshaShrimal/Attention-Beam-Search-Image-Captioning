@@ -1,4 +1,4 @@
-# Attention-Beam-Search-Image-Captioning
+# Image-Captioning
 
 ## Table of Contents
 <center>
